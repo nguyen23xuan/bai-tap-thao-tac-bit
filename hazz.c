@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdint.h>
-// #include <struct.c>
 
 #define HIGH 1
 #define LOW 0
@@ -26,10 +25,5 @@ int main(int argc, char const *argv[])
     digitalWrite(0, HIGH);
     digitalWrite(2, LOW);
     printf("%d", PORTa);
-
-    //-------
-    printf("\nin ra bay ba");
-    printf("\nin ra bay ba");
-    printf("\nin ra bay ba");
     return 0;
 }
