@@ -2,4 +2,7 @@
 
 int main(){
     printf("\nXin chao");
+    printf("\nXin chao");
+    printf("\nXin chao");
+    printf("\nXin chao");
 }
